@@ -2,7 +2,7 @@
 
 **Later Thoughts** is a lightweight, book-independent notes plugin for KOReader.
 
-It is built around one idea: capture a thought while reading without turning note-taking into a second app.
+The idea was to capture a thought while reading without turning note-taking into a second app or having notes lost in book specific annotations. The name rhymes with tater tots.
 
 ## Features
 
@@ -77,7 +77,7 @@ Later Thoughts intentionally stays small:
 ## Known limitations
 
 - ZenUI may display its own lightning-bolt launcher icon.
-- Selected-text-to-note integration is not included.
+- Selected-text-to-note integration is not included but possible in the future.
 - Other KOReader devices may work, but Kindle + ZenUI is the combination tested so far.
 
 ## Contributing
@@ -91,3 +91,7 @@ MIT — see [LICENSE](LICENSE).
 ## Disclaimer
 
 Later Thoughts is an independent community plugin and is not an official KOReader component.
+
+## Development note
+
+Generative AI tools were used during the development of Later Thoughts, including assistance with coding, debugging, documentation, and iteration. The plugin was tested and refined through real-device use on Kindle with KOReader and ZenUI.
