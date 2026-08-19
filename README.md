@@ -2,7 +2,10 @@
 
 **Later Thoughts** is a lightweight, book-independent notes plugin for KOReader.
 
-The idea was to capture a thought while reading without turning note-taking into a second app or having notes lost in book specific annotations. The name rhymes with tater tots.
+The idea was to capture a thought while reading without turning towards note-taking into a secondary app, having notes lost in book specific annotations, interrupting your reading by using your phone, or avoiding using pen and paper while reading in bed. 
+
+<img width="420" height="560" alt="main screen" src="https://github.com/user-attachments/assets/52d9f9ab-281f-43e4-aba8-402fa5b32a68" />
+
 
 ## Features
 
@@ -17,10 +20,25 @@ The idea was to capture a thought while reading without turning note-taking into
   - Timestamp + book + page
   - Divider
   - Bullet
+
+  
+  <table>
+  <tr>
+    <td>
+      <img width="430" height="560" alt="insert options" src="https://github.com/user-attachments/assets/e608346a-c77e-4a8f-b6e3-46c404e49331" />
+    </td>
+    <td>
+      <img width="430" height="560" alt="insert pop up" src="https://github.com/user-attachments/assets/1b6bd263-3d80-4f2e-93ad-9cd6bcc524fa" />
+    </td>
+  </tr>
+</table>
+
+
 - Tap outside the Insert menu to dismiss it
 - Plain `.txt` storage
 - No accounts, database, syncing, network access, tags, or background service
 - Tested on Kindle with KOReader and ZenUI
+- Also, the name rhymes with tater tots.
 
 ## Installation
 
@@ -76,7 +94,7 @@ Later Thoughts intentionally stays small:
 
 ## Known limitations
 
-- ZenUI may display its own lightning-bolt launcher icon.
+- ZenUI may display its own lightning-bolt launcher icon. You can change this icon to one of the available ones when adding the plugin to the launcher when in the ereader. 
 - Selected-text-to-note integration is not included but possible in the future.
 - Other KOReader devices may work, but Kindle + ZenUI is the combination tested so far.
 
